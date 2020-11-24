@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe.config
+C:\Users\Asus\source\repos\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe
+C:\Users\Asus\source\repos\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Asus\source\repos\Lexical Analyzer\Lexical Analyzer\bin\Debug\MaterialSkin.dll
+C:\Users\Asus\source\repos\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical_Analyzer.LexicalAnalyzer.resources
+C:\Users\Asus\source\repos\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical_Analyzer.Properties.Resources.resources
+C:\Users\Asus\source\repos\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csproj.CopyComplete
+C:\Users\Asus\source\repos\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.exe
+C:\Users\Asus\source\repos\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.pdb
